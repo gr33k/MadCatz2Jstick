@@ -59,7 +59,7 @@ int16_t uinput_gpad_open(UINP_GPAD_DEV* const gpad, UINPUT_GPAD_TYPE_E type) {
 
 	struct uinput_user_dev uinp;
 	memset(&uinp, 0, sizeof(uinp));
-	snprintf(uinp.name, sizeof(uinp.name), "MadCatz PC USB Wired Stick");
+	snprintf(uinp.name, sizeof(uinp.name), "Mad Catz, Inc.");
 	uinp.id.version = 4;
 	uinp.id.bustype = BUS_USB;
 	uinp.id.product = 1;

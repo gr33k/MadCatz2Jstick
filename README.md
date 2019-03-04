@@ -1,5 +1,6 @@
 MadCatz2Joystick
 ================
+This has been forked from karlvr's code to make a simple change from 8818 to 8838 (you can see the device id via lsusb)
 
 _MadCatz2Joystick_ exclusively captures the events of the __MadCatz PC USB Wired Stick 8838__ and maps these events to corresponding events on a virtual game pad device.
 

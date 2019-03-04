@@ -1,9 +1,9 @@
 MadCatz2Joystick
 ================
 
-_MadCatz2Joystick_ exclusively captures the events of the __MadCatz PC USB Wired Stick 8818__ and maps these events to corresponding events on a virtual game pad device.
+_MadCatz2Joystick_ exclusively captures the events of the __MadCatz PC USB Wired Stick 8838__ and maps these events to corresponding events on a virtual game pad device.
 
-The MadCatz PC USB Wired Stick 8818 is otherwise known as the Street Fighter IV Arcade Fightstick by Capcom. This software currently only supports the 8818 model
+The MadCatz PC USB Wired Stick 8838 is otherwise known as the Street Fighter IV Arcade Fightstick by Capcom. This software currently only supports the 8838 model
 but can probably easily support other models, so raise an issue or hack the source and submit a pull request!
 
 On the Raspberry Pi the joystick is already registered as a device, but it does not appear to be compatible with MAME. _MadCatz2Joystick_ remaps its so that it is

@@ -76,7 +76,7 @@ int findMadCatzDevice(void) {
 
 		ioctl(fevdev, EVIOCGNAME(sizeof(name)), name);
 
-		if ((strcmp(name, "MadCatz PC USB Wired Stick 8818") == 0)) {
+		if ((strcmp(name, "MadCatz PC USB Wired Stick 8838") == 0)) {
 			printf("Found %s (%s)\n", filename, name);
 			break;
 		} else {

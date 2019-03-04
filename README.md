@@ -24,7 +24,7 @@ In MAME, go into the key settings (press TAB) and map the joystick to the approp
 
 If you would like to download the current version of _MadCatz2Jstick_ from [its Github repository](https://github.com/karlvr/MadCatz2Joystick), you can use this command:
 ```bash
-git clone https://github.com/karlvr/MadCatz2Jstick
+git clone https://github.com/gr33k/MadCatz2Jstick
 ```
 
 ## Building and Installation
